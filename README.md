@@ -51,10 +51,6 @@ $$
 r_c(\zeta) = \sqrt{r_0^2\frac{|\mathbf{l}|}{\Delta |\mathbf{l}| + |\mathbf{l}|} + \frac{4\alpha_L\delta\nu\zeta}{\Omega}}
 $$
 
-Empirical parameters:
-- $\delta$ ≈ 10-1000 (viscosity coefficient)
-- $r_0$ ≈ 5-10% of local chord length (initial core radius)
-
 ![image](https://github.com/ZimoJupiter/Leapfrogging-vortex-rings/blob/main/Plots/Vortex%20core.png)
 
 ## Leapfrogging vortex rings
